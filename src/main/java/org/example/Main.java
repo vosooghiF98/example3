@@ -5,5 +5,6 @@ public class Main {
         Employee employee = new Employee();
         System.out.println(employee.name);
         System.out.println(employee.family);
+        System.out.print("1")
     }
 }
