@@ -4,6 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Employee employee = new Employee();
         System.out.println(employee.name);
+        System.out.println(employee.family);
+        System.out.print("1")
         System.out.println("Hi!");
     }
 }
